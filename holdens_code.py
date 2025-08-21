@@ -1,2 +1,2 @@
 # Test python code
-print("Hello, world")
+print("Hello, world!")
